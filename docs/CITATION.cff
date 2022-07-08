@@ -1,0 +1,10 @@
+cff-version: 1.2.0
+message: "If you use this software, please cite it using the metadata from this file."
+license:
+- AGPL-3.0-or-later
+authors:
+- family-names: "Shanmugam"
+  given-names: "Siddhanathan"
+  email: "adreso@proton.me"
+title: "kodo"
+url: "https://github.com/iogc/kodo"
